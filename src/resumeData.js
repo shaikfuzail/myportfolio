@@ -34,8 +34,8 @@ let resumeData = {
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
+        "UniversityName":"KLE'S BCA",
+        "specialization":"BCA",
         "MonthOfPassing":"Jan",
         "YearOfPassing":"2018",
         "Achievements":"Some Achievements"
